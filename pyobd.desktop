@@ -1,0 +1,9 @@
+Encoding=UTF8
+Icon=/usr/share/pyobd/pyobd.gif
+Name=pyOBD: OBD2 Diagnostics
+Comment=Car On-Board to vehicle diagnostics
+Exec=python /usr/bin/pyobd
+Terminal=false
+Type=Application
+Categories=Utility;
+StartupNotify=true
